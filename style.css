@@ -373,8 +373,8 @@ html {
 /* Enhanced Avatar Container with Larger Size */
 .avatar-container {
   position: relative;
-  width: 330px;
-  height: 330px;
+  width: 320px;
+  height: 320px;
   animation: profileFloat 4s ease-in-out infinite;
   will-change: transform;
   backface-visibility: hidden;
@@ -1101,20 +1101,20 @@ section {
   }
 
   .avatar-container {
-    width: 300px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
   }
 
   .glow-ring {
-    top: -15px;
-    left: -15px;
-    right: -15px;
-    bottom: -15px;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
     border-width: 3px;
   }
 
   .avatar-container::before {
-    top: -25px;
+    top: -20px;
     left: -25px;
     right: -25px;
     bottom: -25px;
@@ -1122,7 +1122,7 @@ section {
   }
 
   .avatar-container::after {
-    top: -30px;
+    top: -20px;
     left: -30px;
     right: -30px;
     bottom: -30px;
@@ -1160,8 +1160,8 @@ section {
   }
 
   .avatar-container {
-    width: 250px;
-    height: 250px;
+    width: 100px;
+    height: 100px;
   }
 
   .social-icon {
@@ -1200,22 +1200,22 @@ section {
   }
 
   .glow-ring {
-    top: -12px;
-    left: -12px;
-    right: -12px;
-    bottom: -12px;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
     border-width: 2px;
   }
 
   .avatar-container::before {
-    top: -20px;
+    top: -15px;
     left: -20px;
     right: -20px;
     bottom: -20px;
   }
 
   .avatar-container::after {
-    top: -25px;
+    top: -20px;
     left: -25px;
     right: -25px;
     bottom: -25px;
@@ -1237,8 +1237,8 @@ section {
   }
 
   .avatar-container {
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
   }
 }
 
@@ -1260,8 +1260,8 @@ section {
   }
 
   .avatar-container {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
   }
 
   .social-icon {
